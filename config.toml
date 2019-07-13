@@ -1,0 +1,82 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Integrantes"
+        url     = "about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Proyectos"
+        url     = "service"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Galería"
+        url     = "gallery"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Contacto"
+        url     = "contact"
+        weight  = 6
+
+# Site Params
+[params]
+    home = "Inicio"
+    logo = "images/logo.jpg"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Themefisher"
+    # Google Analitycs
+    googleAnalitycsID = "Your ID"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "Bienvenido a INATALInC-LAC"
+        description = "Somos una red de investigadores que promueven los sistemas de transporte urbano que puedan satisfacer las necesidades de comunidades con bajos ingresos en Latinoamérica."
+        btn     = true
+        btnText = "Nuestro Libro"
+        btnURL  = "https://www.dropbox.com/s/xrk29wyp5joojfd/transporte%20urbano.pdf?dl=0"
+        [[params.banner.flipText]]
+            title   = "Transporte"
+        [[params.banner.flipText]]
+            title   = "Equidad"
+        [[params.banner.flipText]]
+            title   = "Justicia Social"
+        [[params.banner.flipText]]
+            title   = "Caminabilidad"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "Sobre Nosotros"
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        image   = "images/about/about.jpg"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "SO WHAT YOU THINK ?"
+        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        btnText = "Contact with me"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    
