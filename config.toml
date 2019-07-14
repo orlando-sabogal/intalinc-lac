@@ -4,7 +4,7 @@ title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
-
+ 
 # Site Menus
 [menu]
     # Navbar Menus
