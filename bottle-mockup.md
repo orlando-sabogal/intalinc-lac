@@ -1,16 +1,16 @@
 ---
-caption: Fashion Design
+caption: Product Mockup
 category:
-- fashion
-- package
+- mockup
+- design
 client: Julia Robertson
-date: "2018-07-12T16:57:54+06:00"
+date: "2018-07-12T16:54:54+06:00"
 description: This is meta description
-image: images/portfolio/item-4.jpg
+image: images/portfolio/item-2.jpg
 liveLink: https://www.themefisher.com
 location: 1201 park street, Avenue, Dhaka
 submitDate: November 20, 2017
-title: Makeup Element
+title: Bottle Mockup
 type: portfolio
 ---
 ### Consectur in Bibendum

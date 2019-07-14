@@ -39,39 +39,13 @@
     </item>
     
     <item>
-      <title>Caramel Bottle</title>
-      <link>/portfolio/caramel-bottle/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0600</pubDate>
-      
-      <guid>/portfolio/caramel-bottle/</guid>
-      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Shopping Bag Concept</title>
-      <link>/portfolio/shopping-bag-concept/</link>
-      <pubDate>Thu, 12 Jul 2018 16:58:55 +0600</pubDate>
-      
-      <guid>/portfolio/shopping-bag-concept/</guid>
-      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Makeup Element</title>
-      <link>/portfolio/makeup-element/</link>
-      <pubDate>Thu, 12 Jul 2018 16:57:54 +0600</pubDate>
-      
-      <guid>/portfolio/makeup-element/</guid>
-      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Table Design</title>
-      <link>/portfolio/table-design/</link>
+      <title>T-SUM</title>
+      <link>/portfolio/tsum/</link>
       <pubDate>Thu, 12 Jul 2018 16:56:54 +0600</pubDate>
       
-      <guid>/portfolio/table-design/</guid>
-      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/tsum/</guid>
+      <description>Transitions to Sustainable Urban Mobility in Sub-Saharan Africa T-SUM is an interdisciplinary and cross-sector collaborative project that aims to identify the conditions under which pathways to sustainable and inclusive transport and land use development can be accelerated in growing cities in the Global South.
+T-SUM is grounded in the observation that, in the context of still-low-but-rising levels of motorization, economic growth and increasing social and spatial inequalities, the formulation and implementation of policies, practices and partnerships that can support an accelerated implementation of sustainable mobility structures is an urgent concern for rapidly developing cities.</description>
     </item>
     
     <item>
@@ -80,15 +54,6 @@
       <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
       
       <guid>/portfolio/bottle-mockup/</guid>
-      <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Dew Drop</title>
-      <link>/portfolio/dew-drop/</link>
-      <pubDate>Thu, 12 Jul 2018 16:53:54 +0600</pubDate>
-      
-      <guid>/portfolio/dew-drop/</guid>
       <description>Consectur in Bibendum Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
@@ -113,6 +78,16 @@ hugo new site timer-hugo  and then go to the themes folder inside of timer-hugo 
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Caliveable</title>
+      <link>/portfolio/caliveable/</link>
+      <pubDate>Tue, 12 Jul 2011 16:54:54 +0600</pubDate>
+      
+      <guid>/portfolio/caliveable/</guid>
+      <description>CALIveable · Corredor Verde Cali El objetivo del proyecto es aplicar los marcos conceptuales y metodológicos de ‘equidad en salud urbana’ y ‘espacios urbanos habitables’ (o ‘habitabilidad urbana’) en Cali, con el fin de generar evidencia acerca de las relaciones uso del suelo-salud y salud-equidad.
+En particular, se examinará el potencial del Proyecto de ‘Corredor Verde’, una intervención de renovación urbana que involucra inversiones en infraestructura de transporte público y no motorizado, espacio público y cambios en la provisión de facilidades urbanas y los usos del suelo.</description>
     </item>
     
   </channel>
