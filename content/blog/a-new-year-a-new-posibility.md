@@ -1,12 +1,12 @@
 ---
-author: Jamica Jock
+author: Natalia Villamizar y Daniel Oviedo
 date: "2018-07-15T12:29:40+06:00"
 description: This is meta description
 image: images/blog/post-3.jpg
 tags:
-- motivation
-- inspiration
-title: A New Year a New Posibility
+- Latinoamérica
+- Transporte Público
+title: INTALInC-LAC, Hacia donde vamos.
 type: post
 ---
 

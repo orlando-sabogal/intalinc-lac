@@ -1,10 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "INTALInC - Capítulo Latinoamérica"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
-
+ 
 # Site Menus
 [menu]
     # Navbar Menus
@@ -28,7 +28,7 @@ theme = "timer-hugo"
         name    = "Contacto"
         url     = "contact"
         weight  = 6
- 
+
 # Site Params
 [params]
     home = "Inicio"
@@ -39,12 +39,12 @@ theme = "timer-hugo"
     author = "Themefisher"
     # Google Analitycs
     googleAnalitycsID = "Your ID"
-
+ 
     # Banner Section
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "Bienvenido a INATALInC-LAC"
+        heading = "Bienvenido a INTALInC-LAC"
         description = "Somos una red de investigadores que promueven los sistemas de transporte urbano que puedan satisfacer las necesidades de comunidades con bajos ingresos en Latinoamérica."
         btn     = true
         btnText = "Nuestro Libro"
@@ -62,7 +62,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "Sobre Nosotros"
-        content = "Queremos proporcionar evidencia que asegure que cada ser humano tengo derecho a una mobilidad económica, segura, limpia y confiable. INATALInC-LAC hace parte de INATALInC, una red con más de 20 socios y 200 miembros individuales establecida en el 2017."
+        content = "Queremos proporcionar evidencia que asegure que cada ser humano tengo derecho a una mobilidad económica, segura, limpia y confiable. INTALInC-LAC hace parte de INATALInC, una red con más de 20 socios y 200 miembros individuales establecida en el 2017. <br/> Este es el capítulo para Latinoamérica de INTALInC y busca juntar investigadores de diferentes campos, personas trabajando en el diseño o implementación de políticas públicas, activistas y en general, personas interesadas en estudiar los problemas de la región y que quieran hacer parte de las soluciones. "
         image   = "images/about/about.jpg" 
 
     # Call to Action

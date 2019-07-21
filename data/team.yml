@@ -3,17 +3,17 @@ title   : Nuestros Miembros
 members  :
   - name  : Daniel Oviedo
     image : images/team/DanielOviedoFoto.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    designation : Director General
+    description : Doctor en Planificación del desarrllo. Investigador y Profesor en University College London.
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
   
   - name  : Natalia Villamizar
-    image : images/team/team-2.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    image : images/team/ncvd_2018.jpg
+    designation : Codirectora
+    description : Doctora en Planificación y Políticas Urbanas de University of Illinois at Chicago. Investigadora y profesora de la Universidad Nacional de Colombia. 
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -21,17 +21,17 @@ members  :
   
   - name  : Orlando Sabogal
     image : images/team/OrlandoFoto.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    designation : Presencia Digital
+    description : Investigador en temas de ciclismo y capital social. Geografía computacional, R, Código abierto e investigación reproducible.
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
 
-  - name  : Anderson Martin
-    image : images/team/team-4.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+  - name  : Ana Marcela Ardila
+    image : images/team/team-2.jpg
+    designation : Codirectora
+    description : Doctora en Geografía de la Universidad de Rio de Janeiro. Investigadora y profesora de sociología urbana de la Universidad Federal de Minas Gerais.
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher

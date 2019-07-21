@@ -1,20 +1,19 @@
 enable  : true
-title   : Why We are Different
+title   : Somos un equipo
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  <br>
-  <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/about/about-company.jpg
+  Nuestro equipo se encuentra disperso por todo el mundo. Algo que lejos de impedirnos trabajar juntos nos permite tener diferentes perspectivas y estar vinculados en gran variedad de proyectos y debates.
+  <br/>
+  Hay personas de diferentes perfiles y áreas: transporte, sociología, economía, estadística, etc.
+image   : images/about/EquipoTrabajo.jpg
 aboutItem:
-  - title : Why Choose Us
+  - title : Transporte
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
-
-  - title : What You Get
+      Promovemos los modos de transporte sostenibles como los cables aéreos o los sistemas de transporte masivo. Hay que hacer de nuestras ciudades lugares donde las pesonas caminen más y usen más la bicicleta. 
+      
+  - title : Sur Global
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
-
-  - title : Meet The Energy
+      Los países en vías de desarrollo tienen problemas específicos y un contexto social y cultural que se debe mirar desde nuestra diversidad y desde la complejidad de nuestros procesos históricos. 
+      
+  - title : Pobreza
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+       Hay que revertir los procesos de generación de pobreza. Es inaceptable la situación en la que viven muchas familias en Latinoamérica. El desarrollo y el progreso deben llegar a los barrios de más bajos ingresos. 

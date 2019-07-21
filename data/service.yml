@@ -1,24 +1,24 @@
 enable  : true
-title   : WHAT WE LOVE TO DO
+title   : Líneas de Trabajo
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
-image   : images/team.jpg
+image   : images/RioJaneiro.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    title : ANÁLISIS DE TRANSPORTE
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : POLÍTICAS PÚBLICAS
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : ESPACIO PÚBLICO
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : CAMINABILIDAD
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
