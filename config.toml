@@ -56,13 +56,15 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Justicia Social"
         [[params.banner.flipText]]
+            title   = "Sostenibilidad"
+        [[params.banner.flipText]]
             title   = "Caminabilidad"
 
     # Homepage About Section
     [params.about]
         enable  = true
         title   = "Sobre Nosotros"
-        content = "Queremos proporcionar evidencia que asegure que cada ser humano tengo derecho a una mobilidad económica, segura, limpia y confiable. INTALInC-LAC hace parte de INATALInC, una red con más de 20 socios y 200 miembros individuales establecida en el 2017. <br/> Este es el capítulo para Latinoamérica de INTALInC y busca juntar investigadores de diferentes campos, personas trabajando en el diseño o implementación de políticas públicas, activistas y en general, personas interesadas en estudiar los problemas de la región y que quieran hacer parte de las soluciones. "
+        content = "Queremos proporcionar evidencia que asegure que cada ser humano tengo derecho a una mobilidad económica, segura, limpia y confiable. INTALInC-LAC hace parte de INTALInC, una red con más de 20 socios y 200 miembros individuales establecida en el 2017. <br/> Este es el capítulo para Latinoamérica de INTALInC y busca juntar investigadores de diferentes campos, personas trabajando en el diseño o implementación de políticas públicas, activistas y en general, personas interesadas en estudiar los problemas de la región y que quieran hacer parte de las soluciones. "
         image   = "images/about/about.jpg" 
 
     # Call to Action

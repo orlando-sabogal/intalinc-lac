@@ -5,34 +5,27 @@ members  :
     image : images/team/DanielOviedoFoto.jpg
     designation : Director General
     description : Doctor en Planificación del desarrllo. Investigador y Profesor en University College London.
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    twitter     : https://twitter.com/danieloviedoh
+    linkedIn    : https://www.linkedin.com/in/danieloviedoh/
+
   
   - name  : Natalia Villamizar
     image : images/team/ncvd_2018.jpg
     designation : Codirectora
     description : Doctora en Planificación y Políticas Urbanas de University of Illinois at Chicago. Investigadora y profesora de la Universidad Nacional de Colombia. 
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-  
+    twitter     : https://twitter.com/IntalincLac
+    linkedIn    : 
+
   - name  : Orlando Sabogal
     image : images/team/OrlandoFoto.jpg
     designation : Presencia Digital
     description : Investigador en temas de ciclismo y capital social. Geografía computacional, R, Código abierto e investigación reproducible.
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    twitter     : https://twitter.com/AntonioSabogal
+    linkedIn    : https://www.linkedin.com/in/orlando-sabogal-48677034/
 
   - name  : Ana Marcela Ardila
-    image : images/team/team-2.jpg
+    image : images/team/AnaArdilaFoto.jpeg
     designation : Codirectora
-    description : Doctora en Geografía de la Universidad de Rio de Janeiro. Investigadora y profesora de sociología urbana de la Universidad Federal de Minas Gerais.
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    description : Doctora en geografía de la Universidade Federal de Rio de Janeiro, con maestría y graduación en sociología. Investigadora y profesora de sociología urbana de la Universidad Federal de Minas Gerais
+    twitter     : https://twitter.com/IntalincLac
+    linkedIn    : 
