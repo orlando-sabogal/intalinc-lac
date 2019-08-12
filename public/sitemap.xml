@@ -53,6 +53,10 @@
   </url>
   
   <url>
+    <loc>/blog/unaprueba/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>

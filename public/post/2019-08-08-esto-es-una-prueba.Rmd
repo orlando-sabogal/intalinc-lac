@@ -1,0 +1,28 @@
+---
+title: Esto es una prueba
+author: Orlando
+date: '2019-08-08'
+slug: esto-es-una-prueba
+categories: []
+tags: []
+---
+
+Eso es una prueba para ver si se puede reemplazar un blog directamente en la página web modificada copiando la carpeta *blog*
+
+#Ojalá
+##Funcione
+##Bien
+
+```{r}
+a <- 1
+```
+
+```{r}
+a
+```
+
+```{r}
+head(mtcars)
+```
+
+
